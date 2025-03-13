@@ -2,7 +2,7 @@
 
 Developed a fully functional Tic Tac Toe game using React 18, TypeScript, and Tailwind CSS, featuring score tracking, game history, and responsive design.
 
-Implemented a DevSecOps pipeline using GitHub Actions for CI/CD, Docker for containerization, and Kubernetes with Argo CD for deployment, integrating static code analysis (ESLint, Prettier) and dependency scanning (Snyk) to ensure security and code quality.
+Implemented a DevSecOps pipeline using GitHub Actions for CI/CD, Docker for containerization, and Kubernetes with Argo CD for deployment, integrating static code analysis and dependency scanning to ensure security and code quality.
 
 
 ![Screenshot 2025-03-04 at 7 16 48 PM](https://github.com/user-attachments/assets/7ed79f9c-9144-4870-accd-500085a15592)
